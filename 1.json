@@ -1,0 +1,12 @@
+{
+    "name": "Test",
+    "description": "Test",
+    "image": "https://github.com/gift-nft/1.jpg",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Gift"
+      }
+    ]
+  }
+  
